@@ -46,3 +46,5 @@ function solution(num_list, n) {
     num_list.forEach((num,index)=>result[~~(index/n)].push(num))
     return result
 }
+
+ // let result = Array.from({length:resultArrLength}).map((x)=>[]) 이부분은 Array(resultArrLength).fill([]) 이런식으로 간단하게 작성가능
