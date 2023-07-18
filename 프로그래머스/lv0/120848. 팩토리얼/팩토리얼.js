@@ -17,3 +17,9 @@ function solution(n) {
         }
     }
 }
+
+/* 재귀함수 사용하는 방법이 있음 
+function factorial(n) {
+  return (n===1 ? 1 : n*(factorial(n-1)))
+}
+*/
