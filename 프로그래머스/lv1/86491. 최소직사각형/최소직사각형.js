@@ -5,4 +5,4 @@ function solution(sizes) {
     return maxWidth * maxHeight
 }
 
-Math.Min Math.Max 자꾸 까먹는 똥멍청이
+//Math.Min Math.Max 자꾸 까먹는 똥멍청이
